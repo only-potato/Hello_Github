@@ -1,0 +1,2 @@
+branch is a temp hub ,which can promise that the new file in the branch has less impact of the master branch.
+When the new branch is stable we can merge the new file into the master branch.
