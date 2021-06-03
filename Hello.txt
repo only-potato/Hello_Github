@@ -9,3 +9,10 @@ test3: i can get the older version of the code ?-publish and private
 however, i can't view any information about my private file ,and if i  need to find the 
 older version, i need to copy ?
 test4: tag
+--each version can have more than one tag ,however,in the project ,i can't use the sanme
+tag name in more than one version .It means that each version can have more than one tags
+but each tag only belongs to one version.
+--why to use tag ? just to find some new version information? -maybe stable version need
+to be put tags.
+-- tags in private is as same as publish files
+test5: branches?
