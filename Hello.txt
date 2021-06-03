@@ -1,2 +1,5 @@
 Hello Github!!
 test1： don't keep code private ->publish the repository?
+——Yes，if i want to see the project file in the Github on my browser, 
+i need to keep my code publish. 
+test2: commit information
