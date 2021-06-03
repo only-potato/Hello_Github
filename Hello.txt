@@ -5,3 +5,7 @@ i need to keep my code publish.
 test2: commit information
 --title and description is show in title and can be seen clearly
 test3: i can get the older version of the code ?-publish and private
+-- for publish file, i can get view the history both in desktop and browser,
+however, i can't view any information about my private file ,and if i  need to find the 
+older version, i need to copy ?
+test4: tag
